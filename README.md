@@ -1,6 +1,6 @@
 # 06 - Sorts
 
-> **[⬅️ Back to Main Project](https://github.com/MAHMOUD2ABDALLAH/Census-2022-Manufacturing-E-Commerce-to-Power-BI)**
+> **[Back to Main Project](https://github.com/MAHMOUD2ABDALLAH/Census-2022-Manufacturing-E-Commerce-to-Power-BI)**
 
 This branch contains the sorts metadata.
 
@@ -8,5 +8,3 @@ This branch contains the sorts metadata.
 
 **Power BI Raw Link:**
 `https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/Census-2022-Manufacturing-E-Commerce-to-Power-BI/06-sorts/output/sorts.csv`
-
-> **[📊 View Power BI Dashboard Branch](https://github.com/MAHMOUD2ABDALLAH/Census-2022-Manufacturing-E-Commerce-to-Power-BI/tree/09-powerbi)**
