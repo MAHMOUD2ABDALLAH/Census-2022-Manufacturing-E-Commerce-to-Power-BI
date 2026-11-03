@@ -9,4 +9,3 @@ This branch contains the actual 2022 E-Commerce data (RCPTOT, RCPECOMT, RCPECOMP
 **Power BI Raw Link:**
 `https://raw.githubusercontent.com/MAHMOUD2ABDALLAH/Census-2022-Manufacturing-E-Commerce-to-Power-BI/08-data/output/data.csv`
 
-> **[📊 View Power BI Dashboard Branch](https://github.com/MAHMOUD2ABDALLAH/Census-2022-Manufacturing-E-Commerce-to-Power-BI/tree/09-powerbi)**
