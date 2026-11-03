@@ -1,0 +1,18 @@
+variable,label,concept,predicateType,group,limit,predicateOnly
+RCPECOMPCT,"E-Shipments as percent of total sales, value of shipments, or revenue (%)",Manufacturing: E-Commerce Statistics for the U.S.: 2022,float,EC2231ECOMM,0,True
+RCPTOT_F,"Flag for sales, value of shipments, or revenue",Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
+NAICS2022_LABEL,Meaning of NAICS code,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
+NAICS2022,2022 NAICS code,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
+NAICS2022_F,2022 NAICS Footnote,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
+YEAR,Year,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
+RCPTOT,"Sales, value of shipments, or revenue ($1,000)",Manufacturing: E-Commerce Statistics for the U.S.: 2022,int,EC2231ECOMM,0,True
+GEO_ID_F,Geo Footnote,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
+RCPECOMPCT_F,"Flag for e-Shipments as percent of total sales, value of shipments, or revenue (%)",Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
+RCPECOMT,"E-Shipments value ($1,000)",Manufacturing: E-Commerce Statistics for the U.S.: 2022,int,EC2231ECOMM,0,True
+SECTOR,NAICS economic sector,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
+RCPECOMT_F,"Flag for e-commerce, value of shipments and receipts",Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
+NAME,Geographic Area Name,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
+INDLEVEL,Industry level,Manufacturing: E-Commerce Statistics for the U.S.: 2022,int,EC2231ECOMM,0,True
+GEO_ID,Geographic identifier code,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
+RCPTOT_IMP,"Range indicating imputed percentage of total sales, value of shipments, or revenue",Manufacturing: E-Commerce Statistics for the U.S.: 2022,int,EC2231ECOMM,0,True
+RCPTOT_IMP_F,"Flag for range indicating imputed percentage of total sales, value of shipments, or revenue",Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,True
