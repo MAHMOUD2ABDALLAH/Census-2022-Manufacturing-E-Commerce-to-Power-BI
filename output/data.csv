@@ -1,0 +1,23 @@
+GEO_ID,GEO_ID_F,NAME,INDLEVEL,NAICS2022,NAICS2022_F,NAICS2022_LABEL,RCPECOMPCT,RCPECOMPCT_F,RCPECOMT,RCPECOMT_F,RCPTOT,RCPTOT_F,RCPTOT_IMP,RCPTOT_IMP_F,SECTOR,YEAR,us
+0100000US,,United States,2,31-33,,Manufacturing,68.5,,4825877951,,7048663670,,0,3,31,2022,1
+0100000US,,United States,3,311,,Food Manufacturing,72.3,,751298327,,1039160583,,0,3,31,2022,1
+0100000US,,United States,3,312,,Beverage and Tobacco Product Manufacturing,78.6,,137556099,,174997491,,0,5,31,2022,1
+0100000US,,United States,3,313,,Textile Mills,75.0,,20270570,,27023353,,0,4,31,2022,1
+0100000US,,United States,3,314,,Textile Product Mills,66.3,,15304781,,23081651,,0,4,31,2022,1
+0100000US,,United States,3,315,,Apparel Manufacturing,49.3,,4903918,,9938117,,0,3,31,2022,1
+0100000US,,United States,3,316,,Leather and Allied Product Manufacturing,56.8,,2726053,,4800813,,0,3,31,2022,1
+0100000US,,United States,3,321,,Wood Product Manufacturing,52.6,,90667619,,172445535,,0,2,31,2022,1
+0100000US,,United States,3,322,,Paper Manufacturing,78.4,,172808036,,220327671,,0,2,31,2022,1
+0100000US,,United States,3,323,,Printing and Related Support Activities,54.3,,49389792,,90913743,,0,2,31,2022,1
+0100000US,,United States,3,324,,Petroleum and Coal Products Manufacturing,65.3,,577252915,,883348475,,0,1,31,2022,1
+0100000US,,United States,3,325,,Chemical Manufacturing,68.0,,612522282,,900972532,,0,4,31,2022,1
+0100000US,,United States,3,326,,Plastics and Rubber Products Manufacturing,69.3,,210221523,,303212658,,0,3,31,2022,1
+0100000US,,United States,3,327,,Nonmetallic Mineral Product Manufacturing,44.0,,72450464,,164789647,,0,3,31,2022,1
+0100000US,,United States,3,331,,Primary Metal Manufacturing,75.9,,245303953,,323086883,,0,2,31,2022,1
+0100000US,,United States,3,332,,Fabricated Metal Product Manufacturing,56.2,,261577696,,465673224,,0,2,31,2022,1
+0100000US,,United States,3,333,,Machinery Manufacturing,65.1,,289920106,,445515810,,0,3,31,2022,1
+0100000US,,United States,3,334,,Computer and Electronic Product Manufacturing,66.3,,233559298,,352323904,,0,4,31,2022,1
+0100000US,,United States,3,335,,"Electrical Equipment, Appliance, and Component Manufacturing",63.4,,109483755,,172684075,,0,3,31,2022,1
+0100000US,,United States,3,336,,Transportation Equipment Manufacturing,80.3,,822493692,,1023728929,,0,4,31,2022,1
+0100000US,,United States,3,337,,Furniture and Related Product Manufacturing,58.3,,51711494,,88686569,,0,3,31,2022,1
+0100000US,,United States,3,339,,Miscellaneous Manufacturing,58.3,,94455578,,161952007,,0,4,31,2022,1
