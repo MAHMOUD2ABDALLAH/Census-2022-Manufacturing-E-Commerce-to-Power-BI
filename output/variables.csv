@@ -1,0 +1,18 @@
+variable,label,concept,predicateType,group,limit,predicateOnly,hasGeoCollectionSupport,attributes,required
+for,Census API FIPS 'for' clause,Census API Geography Specification,fips-for,N/A,0,True,,,
+in,Census API FIPS 'in' clause,Census API Geography Specification,fips-in,N/A,0,True,,,
+ucgid,Uniform Census Geography Identifier clause,Census API Geography Specification,ucgid,N/A,0,True,True,,
+RCPECOMT,"E-Shipments value ($1,000)",Manufacturing: E-Commerce Statistics for the U.S.: 2022,int,EC2231ECOMM,0,,,RCPECOMT_F,
+SECTOR,NAICS economic sector,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,,,,
+RCPECOMPCT,"E-Shipments as percent of total sales, value of shipments, or revenue (%)",Manufacturing: E-Commerce Statistics for the U.S.: 2022,float,EC2231ECOMM,0,,,RCPECOMPCT_F,
+NAICS2022,2022 NAICS code,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,,,"NAICS2022_F,NAICS2022_LABEL,NAICS2022_F",
+INDLEVEL,Industry level,Manufacturing: E-Commerce Statistics for the U.S.: 2022,int,EC2231ECOMM,0,,,,
+GEO_ID,Geographic identifier code,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,,,"GEO_ID_F,NAME",
+GEOCOMP,GEO_ID Component,,string,N/A,0,,,,default displayed
+SUMLEVEL,Summary Level code,,string,N/A,0,,,,
+NATION,Nation,,,N/A,0,,,,
+YEAR,Year,Manufacturing: E-Commerce Statistics for the U.S.: 2022,string,EC2231ECOMM,0,,,,
+RCPTOT_IMP,"Range indicating imputed percentage of total sales, value of shipments, or revenue",Manufacturing: E-Commerce Statistics for the U.S.: 2022,int,EC2231ECOMM,0,,,RCPTOT_IMP_F,
+INDGROUP,Industry group,,string,N/A,0,,,,
+RCPTOT,"Sales, value of shipments, or revenue ($1,000)",Manufacturing: E-Commerce Statistics for the U.S.: 2022,int,EC2231ECOMM,0,,,RCPTOT_F,
+SUBSECTOR,SUBSECTOR,,string,N/A,0,,,,
