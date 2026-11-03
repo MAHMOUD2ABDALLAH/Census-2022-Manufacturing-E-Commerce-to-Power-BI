@@ -1,2 +1,15 @@
-# Census-2022-Manufacturing-E-Commerce-to-Power-BI
-This repository is a branch-based walkthrough of a Census data project. The main branch is the project map: overview and table of contents. Each TOC entry links to a numbered branch for one workflow stage, taking you from Census API extraction to the final Power BI report and dashboard.
+# Census 2022 E-Commerce to Power BI
+
+This repository extracts data from the US Census Bureau API (2022 E-Commerce Statistics) and converts it to CSV files for use in Power BI.
+
+## Branches
+- `main`: Full project code, outputs, and documentation.
+- `01-geography` to `08-data`: Isolated datasets with their own code and CSV outputs.
+- `09-powerbi`: The Power BI `.pbix` dashboard file.
+
+## Setup
+1. Run `pip install -r requirements.txt`
+2. Create a `.env` file with `CENSUS_KEY=your_key_here`
+3. Run `python main.py` to fetch all data.
+
+👉 **[View the Power BI Dashboard Branch](https://github.com/MAHMOUD2ABDALLAH/Census-2022-Manufacturing-E-Commerce-to-Power-BI/tree/09-powerbi)**
